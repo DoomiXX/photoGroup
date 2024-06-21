@@ -2,7 +2,18 @@
 
 
 
-
+/*footer css */
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #41a313;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    color: #fff;
+    flex-wrap: wrap;
+}
 
 /* media */
 

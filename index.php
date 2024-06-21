@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
-<?php include 'includes/nav.php'; ?>
+<?php include_once 'includes/navbar.php'; ?>
     <main class="main-log-in">
         <div class="primary-bg">
             </div>
@@ -25,7 +25,7 @@
             <a href="login.php">log in</a>
         </div>
     </main>
-    <?php include 'includes/footer.php' ?>
+    <?php include_once 'includes/footer.php'; ?>
 </body>
 
 </html>
